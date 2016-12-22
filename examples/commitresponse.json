@@ -1,0 +1,2132 @@
+[
+  {
+    "sha": "3e55417e118205553240a4a7ad3aac791065713d",
+    "commit": {
+      "author": {
+        "name": "James Burke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-26T05:04:24Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-09-26T05:04:24Z"
+      },
+      "message": "Merge pull request #1590 from pwnn/patch-1\n\nUpdate api.html",
+      "tree": {
+        "sha": "7a426a1bd84cc95eec730777ace7603252d30c9a",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/7a426a1bd84cc95eec730777ace7603252d30c9a"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/3e55417e118205553240a4a7ad3aac791065713d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/3e55417e118205553240a4a7ad3aac791065713d",
+    "html_url": "https://github.com/requirejs/requirejs/commit/3e55417e118205553240a4a7ad3aac791065713d",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/3e55417e118205553240a4a7ad3aac791065713d/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4316f8f19f981c726eb32b5335c36237e0125948",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/4316f8f19f981c726eb32b5335c36237e0125948",
+        "html_url": "https://github.com/requirejs/requirejs/commit/4316f8f19f981c726eb32b5335c36237e0125948"
+      },
+      {
+        "sha": "366a675d1c8a0b22cd24839c91ac84b7892ad8f2",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/366a675d1c8a0b22cd24839c91ac84b7892ad8f2",
+        "html_url": "https://github.com/requirejs/requirejs/commit/366a675d1c8a0b22cd24839c91ac84b7892ad8f2"
+      }
+    ]
+  },
+  {
+    "sha": "366a675d1c8a0b22cd24839c91ac84b7892ad8f2",
+    "commit": {
+      "author": {
+        "name": "宋文强",
+        "email": "hi@pwn.buzz",
+        "date": "2016-09-25T10:53:35Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-09-25T10:53:35Z"
+      },
+      "message": "Update api.html\n\nfix anchor url",
+      "tree": {
+        "sha": "7a426a1bd84cc95eec730777ace7603252d30c9a",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/7a426a1bd84cc95eec730777ace7603252d30c9a"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/366a675d1c8a0b22cd24839c91ac84b7892ad8f2",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/366a675d1c8a0b22cd24839c91ac84b7892ad8f2",
+    "html_url": "https://github.com/requirejs/requirejs/commit/366a675d1c8a0b22cd24839c91ac84b7892ad8f2",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/366a675d1c8a0b22cd24839c91ac84b7892ad8f2/comments",
+    "author": {
+      "login": "pwnn",
+      "id": 523893,
+      "avatar_url": "https://avatars.githubusercontent.com/u/523893?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/pwnn",
+      "html_url": "https://github.com/pwnn",
+      "followers_url": "https://api.github.com/users/pwnn/followers",
+      "following_url": "https://api.github.com/users/pwnn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/pwnn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/pwnn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/pwnn/subscriptions",
+      "organizations_url": "https://api.github.com/users/pwnn/orgs",
+      "repos_url": "https://api.github.com/users/pwnn/repos",
+      "events_url": "https://api.github.com/users/pwnn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/pwnn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4316f8f19f981c726eb32b5335c36237e0125948",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/4316f8f19f981c726eb32b5335c36237e0125948",
+        "html_url": "https://github.com/requirejs/requirejs/commit/4316f8f19f981c726eb32b5335c36237e0125948"
+      }
+    ]
+  },
+  {
+    "sha": "4316f8f19f981c726eb32b5335c36237e0125948",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-17T16:47:05Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-17T16:47:05Z"
+      },
+      "message": "Rev to 2.3.2",
+      "tree": {
+        "sha": "f3d3f71215066eaa748d2e2474274e6c67650010",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/f3d3f71215066eaa748d2e2474274e6c67650010"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/4316f8f19f981c726eb32b5335c36237e0125948",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/4316f8f19f981c726eb32b5335c36237e0125948",
+    "html_url": "https://github.com/requirejs/requirejs/commit/4316f8f19f981c726eb32b5335c36237e0125948",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/4316f8f19f981c726eb32b5335c36237e0125948/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8c83e840bc7a57e20aff8271f00c525e111f8a81",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/8c83e840bc7a57e20aff8271f00c525e111f8a81",
+        "html_url": "https://github.com/requirejs/requirejs/commit/8c83e840bc7a57e20aff8271f00c525e111f8a81"
+      }
+    ]
+  },
+  {
+    "sha": "8c83e840bc7a57e20aff8271f00c525e111f8a81",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-16T03:03:44Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-16T03:03:44Z"
+      },
+      "message": "Fixes #1588, setTimeout not available in all environments",
+      "tree": {
+        "sha": "0ced7ea8281d9f1be4e8be3f813ed6a60485d545",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/0ced7ea8281d9f1be4e8be3f813ed6a60485d545"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/8c83e840bc7a57e20aff8271f00c525e111f8a81",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/8c83e840bc7a57e20aff8271f00c525e111f8a81",
+    "html_url": "https://github.com/requirejs/requirejs/commit/8c83e840bc7a57e20aff8271f00c525e111f8a81",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/8c83e840bc7a57e20aff8271f00c525e111f8a81/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "861f5e482acd457d2a4f9563befe228923b64514",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/861f5e482acd457d2a4f9563befe228923b64514",
+        "html_url": "https://github.com/requirejs/requirejs/commit/861f5e482acd457d2a4f9563befe228923b64514"
+      }
+    ]
+  },
+  {
+    "sha": "861f5e482acd457d2a4f9563befe228923b64514",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-16T03:01:06Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-16T03:01:06Z"
+      },
+      "message": "rev past 2.3.1 version",
+      "tree": {
+        "sha": "10a8e94947b6db28a73cb6205fedbd260286f195",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/10a8e94947b6db28a73cb6205fedbd260286f195"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/861f5e482acd457d2a4f9563befe228923b64514",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/861f5e482acd457d2a4f9563befe228923b64514",
+    "html_url": "https://github.com/requirejs/requirejs/commit/861f5e482acd457d2a4f9563befe228923b64514",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/861f5e482acd457d2a4f9563befe228923b64514/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "51d005fd962d57d5434a579f81f22bf51cdfb0a0",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/51d005fd962d57d5434a579f81f22bf51cdfb0a0",
+        "html_url": "https://github.com/requirejs/requirejs/commit/51d005fd962d57d5434a579f81f22bf51cdfb0a0"
+      }
+    ]
+  },
+  {
+    "sha": "51d005fd962d57d5434a579f81f22bf51cdfb0a0",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-05T17:03:58Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-05T17:03:58Z"
+      },
+      "message": "Rev for 2.3.1",
+      "tree": {
+        "sha": "9b38f3cf8e95a42694a616c9eb5c7b6820646805",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/9b38f3cf8e95a42694a616c9eb5c7b6820646805"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/51d005fd962d57d5434a579f81f22bf51cdfb0a0",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/51d005fd962d57d5434a579f81f22bf51cdfb0a0",
+    "html_url": "https://github.com/requirejs/requirejs/commit/51d005fd962d57d5434a579f81f22bf51cdfb0a0",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/51d005fd962d57d5434a579f81f22bf51cdfb0a0/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4f9ebfcdb6190effe19c6891068ab9d4654b94df",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/4f9ebfcdb6190effe19c6891068ab9d4654b94df",
+        "html_url": "https://github.com/requirejs/requirejs/commit/4f9ebfcdb6190effe19c6891068ab9d4654b94df"
+      }
+    ]
+  },
+  {
+    "sha": "4f9ebfcdb6190effe19c6891068ab9d4654b94df",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-05T00:11:27Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-05T00:11:27Z"
+      },
+      "message": "updates to dist process",
+      "tree": {
+        "sha": "5113d76254e45637379b58e914e02e45061bcaac",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/5113d76254e45637379b58e914e02e45061bcaac"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/4f9ebfcdb6190effe19c6891068ab9d4654b94df",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/4f9ebfcdb6190effe19c6891068ab9d4654b94df",
+    "html_url": "https://github.com/requirejs/requirejs/commit/4f9ebfcdb6190effe19c6891068ab9d4654b94df",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/4f9ebfcdb6190effe19c6891068ab9d4654b94df/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6bded399581de85aa4b4e025f91fba8fe8a8ec3d",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/6bded399581de85aa4b4e025f91fba8fe8a8ec3d",
+        "html_url": "https://github.com/requirejs/requirejs/commit/6bded399581de85aa4b4e025f91fba8fe8a8ec3d"
+      }
+    ]
+  },
+  {
+    "sha": "6bded399581de85aa4b4e025f91fba8fe8a8ec3d",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-04T22:43:38Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-04T22:43:38Z"
+      },
+      "message": "Rev for 2.3",
+      "tree": {
+        "sha": "5b944f76470a1c7934f37dcd99ab4cada53a6298",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/5b944f76470a1c7934f37dcd99ab4cada53a6298"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/6bded399581de85aa4b4e025f91fba8fe8a8ec3d",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/6bded399581de85aa4b4e025f91fba8fe8a8ec3d",
+    "html_url": "https://github.com/requirejs/requirejs/commit/6bded399581de85aa4b4e025f91fba8fe8a8ec3d",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/6bded399581de85aa4b4e025f91fba8fe8a8ec3d/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a21a3f4d54b90be9e3d5b1249f94c920d9383e4f",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/a21a3f4d54b90be9e3d5b1249f94c920d9383e4f",
+        "html_url": "https://github.com/requirejs/requirejs/commit/a21a3f4d54b90be9e3d5b1249f94c920d9383e4f"
+      }
+    ]
+  },
+  {
+    "sha": "a21a3f4d54b90be9e3d5b1249f94c920d9383e4f",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-04T22:08:18Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-04T22:08:18Z"
+      },
+      "message": "require-cs is tracked separately now",
+      "tree": {
+        "sha": "beadb1306871f600eeee9f4ec3d86ea6456ce4fb",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/beadb1306871f600eeee9f4ec3d86ea6456ce4fb"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/a21a3f4d54b90be9e3d5b1249f94c920d9383e4f",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/a21a3f4d54b90be9e3d5b1249f94c920d9383e4f",
+    "html_url": "https://github.com/requirejs/requirejs/commit/a21a3f4d54b90be9e3d5b1249f94c920d9383e4f",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/a21a3f4d54b90be9e3d5b1249f94c920d9383e4f/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "eb4f1ff96199c2d50f9247598ffe75439e002227",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/eb4f1ff96199c2d50f9247598ffe75439e002227",
+        "html_url": "https://github.com/requirejs/requirejs/commit/eb4f1ff96199c2d50f9247598ffe75439e002227"
+      }
+    ]
+  },
+  {
+    "sha": "eb4f1ff96199c2d50f9247598ffe75439e002227",
+    "commit": {
+      "author": {
+        "name": "James Burke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-04T17:30:12Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-09-04T17:30:12Z"
+      },
+      "message": "Merge pull request #1582 from requirejs/comment-regexp\n\nUpdate commentRegExp for better sugared CommonJS syntax dependency parsing",
+      "tree": {
+        "sha": "e549ab8c9a055b2b55fad2f686eddd39e638a508",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/e549ab8c9a055b2b55fad2f686eddd39e638a508"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/eb4f1ff96199c2d50f9247598ffe75439e002227",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/eb4f1ff96199c2d50f9247598ffe75439e002227",
+    "html_url": "https://github.com/requirejs/requirejs/commit/eb4f1ff96199c2d50f9247598ffe75439e002227",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/eb4f1ff96199c2d50f9247598ffe75439e002227/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "393986adb0386d863f9e8f80c531ad51baa4a623",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/393986adb0386d863f9e8f80c531ad51baa4a623",
+        "html_url": "https://github.com/requirejs/requirejs/commit/393986adb0386d863f9e8f80c531ad51baa4a623"
+      },
+      {
+        "sha": "4c84ff2875c76d8eb42bbbaa909e9fa4ebdd0ce1",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/4c84ff2875c76d8eb42bbbaa909e9fa4ebdd0ce1",
+        "html_url": "https://github.com/requirejs/requirejs/commit/4c84ff2875c76d8eb42bbbaa909e9fa4ebdd0ce1"
+      }
+    ]
+  },
+  {
+    "sha": "4c84ff2875c76d8eb42bbbaa909e9fa4ebdd0ce1",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-04T17:24:22Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-04T17:24:22Z"
+      },
+      "message": "commentRegExp faster and matches more",
+      "tree": {
+        "sha": "c32263c52264ddc4b394fa411ec5bde753455806",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/c32263c52264ddc4b394fa411ec5bde753455806"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/4c84ff2875c76d8eb42bbbaa909e9fa4ebdd0ce1",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/4c84ff2875c76d8eb42bbbaa909e9fa4ebdd0ce1",
+    "html_url": "https://github.com/requirejs/requirejs/commit/4c84ff2875c76d8eb42bbbaa909e9fa4ebdd0ce1",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/4c84ff2875c76d8eb42bbbaa909e9fa4ebdd0ce1/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+        "html_url": "https://github.com/requirejs/requirejs/commit/e97fe4dd894d8a07712156e17cefa28b954a9c3e"
+      }
+    ]
+  },
+  {
+    "sha": "393986adb0386d863f9e8f80c531ad51baa4a623",
+    "commit": {
+      "author": {
+        "name": "James Burke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-09-03T23:43:49Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-09-03T23:43:49Z"
+      },
+      "message": "Merge pull request #1581 from ivaylo5ev/master\n\nModest typo fix in domReady-related documentation",
+      "tree": {
+        "sha": "e4031a7f6c67d756bfff40b7aea8d2a16f9d414b",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/e4031a7f6c67d756bfff40b7aea8d2a16f9d414b"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/393986adb0386d863f9e8f80c531ad51baa4a623",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/393986adb0386d863f9e8f80c531ad51baa4a623",
+    "html_url": "https://github.com/requirejs/requirejs/commit/393986adb0386d863f9e8f80c531ad51baa4a623",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/393986adb0386d863f9e8f80c531ad51baa4a623/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "50b995dc092a1a1da76165cfbaca3060e1e87143",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/50b995dc092a1a1da76165cfbaca3060e1e87143",
+        "html_url": "https://github.com/requirejs/requirejs/commit/50b995dc092a1a1da76165cfbaca3060e1e87143"
+      },
+      {
+        "sha": "5e722130aae5edcb24e90b8de5995da5e657cb9e",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/5e722130aae5edcb24e90b8de5995da5e657cb9e",
+        "html_url": "https://github.com/requirejs/requirejs/commit/5e722130aae5edcb24e90b8de5995da5e657cb9e"
+      }
+    ]
+  },
+  {
+    "sha": "5e722130aae5edcb24e90b8de5995da5e657cb9e",
+    "commit": {
+      "author": {
+        "name": "Ivaylo Petev Slavov",
+        "email": "ivaylo5ev@gmail.com",
+        "date": "2016-09-01T12:48:29Z"
+      },
+      "committer": {
+        "name": "Ivaylo Petev Slavov",
+        "email": "ivaylo5ev@gmail.com",
+        "date": "2016-09-01T12:48:29Z"
+      },
+      "message": "small error in plugins docs page",
+      "tree": {
+        "sha": "e4031a7f6c67d756bfff40b7aea8d2a16f9d414b",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/e4031a7f6c67d756bfff40b7aea8d2a16f9d414b"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/5e722130aae5edcb24e90b8de5995da5e657cb9e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/5e722130aae5edcb24e90b8de5995da5e657cb9e",
+    "html_url": "https://github.com/requirejs/requirejs/commit/5e722130aae5edcb24e90b8de5995da5e657cb9e",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/5e722130aae5edcb24e90b8de5995da5e657cb9e/comments",
+    "author": {
+      "login": "ivaylo5ev",
+      "id": 1716141,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1716141?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ivaylo5ev",
+      "html_url": "https://github.com/ivaylo5ev",
+      "followers_url": "https://api.github.com/users/ivaylo5ev/followers",
+      "following_url": "https://api.github.com/users/ivaylo5ev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ivaylo5ev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ivaylo5ev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ivaylo5ev/subscriptions",
+      "organizations_url": "https://api.github.com/users/ivaylo5ev/orgs",
+      "repos_url": "https://api.github.com/users/ivaylo5ev/repos",
+      "events_url": "https://api.github.com/users/ivaylo5ev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ivaylo5ev/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "ivaylo5ev",
+      "id": 1716141,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1716141?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ivaylo5ev",
+      "html_url": "https://github.com/ivaylo5ev",
+      "followers_url": "https://api.github.com/users/ivaylo5ev/followers",
+      "following_url": "https://api.github.com/users/ivaylo5ev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ivaylo5ev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ivaylo5ev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ivaylo5ev/subscriptions",
+      "organizations_url": "https://api.github.com/users/ivaylo5ev/orgs",
+      "repos_url": "https://api.github.com/users/ivaylo5ev/repos",
+      "events_url": "https://api.github.com/users/ivaylo5ev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ivaylo5ev/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c7b6a1bd59b689d45bcaa315992e913a523e8394",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/c7b6a1bd59b689d45bcaa315992e913a523e8394",
+        "html_url": "https://github.com/requirejs/requirejs/commit/c7b6a1bd59b689d45bcaa315992e913a523e8394"
+      }
+    ]
+  },
+  {
+    "sha": "c7b6a1bd59b689d45bcaa315992e913a523e8394",
+    "commit": {
+      "author": {
+        "name": "Ivaylo Petev Slavov",
+        "email": "ivaylo5ev@gmail.com",
+        "date": "2016-09-01T12:10:38Z"
+      },
+      "committer": {
+        "name": "Ivaylo Petev Slavov",
+        "email": "ivaylo5ev@gmail.com",
+        "date": "2016-09-01T12:10:38Z"
+      },
+      "message": "fixed a typo and added formatting to the domReady plugin name in the start of a sencence to justify the new sentence starts with lowecase letter",
+      "tree": {
+        "sha": "18a754ab5208b3c30721ce4fa16fdc39bc403382",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/18a754ab5208b3c30721ce4fa16fdc39bc403382"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/c7b6a1bd59b689d45bcaa315992e913a523e8394",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/c7b6a1bd59b689d45bcaa315992e913a523e8394",
+    "html_url": "https://github.com/requirejs/requirejs/commit/c7b6a1bd59b689d45bcaa315992e913a523e8394",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/c7b6a1bd59b689d45bcaa315992e913a523e8394/comments",
+    "author": {
+      "login": "ivaylo5ev",
+      "id": 1716141,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1716141?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ivaylo5ev",
+      "html_url": "https://github.com/ivaylo5ev",
+      "followers_url": "https://api.github.com/users/ivaylo5ev/followers",
+      "following_url": "https://api.github.com/users/ivaylo5ev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ivaylo5ev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ivaylo5ev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ivaylo5ev/subscriptions",
+      "organizations_url": "https://api.github.com/users/ivaylo5ev/orgs",
+      "repos_url": "https://api.github.com/users/ivaylo5ev/repos",
+      "events_url": "https://api.github.com/users/ivaylo5ev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ivaylo5ev/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "ivaylo5ev",
+      "id": 1716141,
+      "avatar_url": "https://avatars.githubusercontent.com/u/1716141?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ivaylo5ev",
+      "html_url": "https://github.com/ivaylo5ev",
+      "followers_url": "https://api.github.com/users/ivaylo5ev/followers",
+      "following_url": "https://api.github.com/users/ivaylo5ev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ivaylo5ev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ivaylo5ev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ivaylo5ev/subscriptions",
+      "organizations_url": "https://api.github.com/users/ivaylo5ev/orgs",
+      "repos_url": "https://api.github.com/users/ivaylo5ev/repos",
+      "events_url": "https://api.github.com/users/ivaylo5ev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ivaylo5ev/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "50b995dc092a1a1da76165cfbaca3060e1e87143",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/50b995dc092a1a1da76165cfbaca3060e1e87143",
+        "html_url": "https://github.com/requirejs/requirejs/commit/50b995dc092a1a1da76165cfbaca3060e1e87143"
+      }
+    ]
+  },
+  {
+    "sha": "50b995dc092a1a1da76165cfbaca3060e1e87143",
+    "commit": {
+      "author": {
+        "name": "James Burke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-07-24T00:52:24Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-07-24T00:52:24Z"
+      },
+      "message": "Merge pull request #1565 from valera-rozuvan/patch-1\n\nFix link to LICENSE file",
+      "tree": {
+        "sha": "d5e735921a328f947607e4929d2e77a5f92cc672",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/d5e735921a328f947607e4929d2e77a5f92cc672"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/50b995dc092a1a1da76165cfbaca3060e1e87143",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/50b995dc092a1a1da76165cfbaca3060e1e87143",
+    "html_url": "https://github.com/requirejs/requirejs/commit/50b995dc092a1a1da76165cfbaca3060e1e87143",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/50b995dc092a1a1da76165cfbaca3060e1e87143/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+        "html_url": "https://github.com/requirejs/requirejs/commit/e97fe4dd894d8a07712156e17cefa28b954a9c3e"
+      },
+      {
+        "sha": "663244fe41d98e36b36a32757256c15cf6b04f93",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/663244fe41d98e36b36a32757256c15cf6b04f93",
+        "html_url": "https://github.com/requirejs/requirejs/commit/663244fe41d98e36b36a32757256c15cf6b04f93"
+      }
+    ]
+  },
+  {
+    "sha": "663244fe41d98e36b36a32757256c15cf6b04f93",
+    "commit": {
+      "author": {
+        "name": "Valera Rozuvan",
+        "email": "valera.rozuvan@gmail.com",
+        "date": "2016-07-23T00:21:41Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2016-07-23T00:21:41Z"
+      },
+      "message": "Fix link to LICENSE file\n\nIt looks like no-one actually goes to read the license of a library these days = ) This commits updates the link to the LICENSE file, hosted in the requirejs GitHub repository.",
+      "tree": {
+        "sha": "d5e735921a328f947607e4929d2e77a5f92cc672",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/d5e735921a328f947607e4929d2e77a5f92cc672"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/663244fe41d98e36b36a32757256c15cf6b04f93",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/663244fe41d98e36b36a32757256c15cf6b04f93",
+    "html_url": "https://github.com/requirejs/requirejs/commit/663244fe41d98e36b36a32757256c15cf6b04f93",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/663244fe41d98e36b36a32757256c15cf6b04f93/comments",
+    "author": {
+      "login": "valera-rozuvan",
+      "id": 2273090,
+      "avatar_url": "https://avatars.githubusercontent.com/u/2273090?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/valera-rozuvan",
+      "html_url": "https://github.com/valera-rozuvan",
+      "followers_url": "https://api.github.com/users/valera-rozuvan/followers",
+      "following_url": "https://api.github.com/users/valera-rozuvan/following{/other_user}",
+      "gists_url": "https://api.github.com/users/valera-rozuvan/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/valera-rozuvan/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/valera-rozuvan/subscriptions",
+      "organizations_url": "https://api.github.com/users/valera-rozuvan/orgs",
+      "repos_url": "https://api.github.com/users/valera-rozuvan/repos",
+      "events_url": "https://api.github.com/users/valera-rozuvan/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/valera-rozuvan/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+        "html_url": "https://github.com/requirejs/requirejs/commit/e97fe4dd894d8a07712156e17cefa28b954a9c3e"
+      }
+    ]
+  },
+  {
+    "sha": "e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-04-20T05:15:28Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-04-20T05:15:28Z"
+      },
+      "message": "expanded text.js test related to requirejs/text#119",
+      "tree": {
+        "sha": "1e653b77b55a952bb70ff0d28b45f3016281ad17",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/1e653b77b55a952bb70ff0d28b45f3016281ad17"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+    "html_url": "https://github.com/requirejs/requirejs/commit/e97fe4dd894d8a07712156e17cefa28b954a9c3e",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/e97fe4dd894d8a07712156e17cefa28b954a9c3e/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3b5407eb9daa3964eaec1132f225805bcc347e77",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/3b5407eb9daa3964eaec1132f225805bcc347e77",
+        "html_url": "https://github.com/requirejs/requirejs/commit/3b5407eb9daa3964eaec1132f225805bcc347e77"
+      }
+    ]
+  },
+  {
+    "sha": "3b5407eb9daa3964eaec1132f225805bcc347e77",
+    "commit": {
+      "author": {
+        "name": "James Burke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-28T05:54:50Z"
+      },
+      "committer": {
+        "name": "James Burke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-28T05:54:50Z"
+      },
+      "message": "Merge pull request #1518 from platinumazure/close-over-settimeout\n\nAvoid issues caused by clobbering of global setTimeout",
+      "tree": {
+        "sha": "b7b847a1f90eb5d9b4e1124d4e95ae37c8dbf8ea",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/b7b847a1f90eb5d9b4e1124d4e95ae37c8dbf8ea"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/3b5407eb9daa3964eaec1132f225805bcc347e77",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/3b5407eb9daa3964eaec1132f225805bcc347e77",
+    "html_url": "https://github.com/requirejs/requirejs/commit/3b5407eb9daa3964eaec1132f225805bcc347e77",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/3b5407eb9daa3964eaec1132f225805bcc347e77/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c4b74da4b938e13a028a492041fc96d2b9a7e631",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/c4b74da4b938e13a028a492041fc96d2b9a7e631",
+        "html_url": "https://github.com/requirejs/requirejs/commit/c4b74da4b938e13a028a492041fc96d2b9a7e631"
+      },
+      {
+        "sha": "9d95c7bf2b0e83e44cf7d0dbce1118f64ee4a302",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/9d95c7bf2b0e83e44cf7d0dbce1118f64ee4a302",
+        "html_url": "https://github.com/requirejs/requirejs/commit/9d95c7bf2b0e83e44cf7d0dbce1118f64ee4a302"
+      }
+    ]
+  },
+  {
+    "sha": "9d95c7bf2b0e83e44cf7d0dbce1118f64ee4a302",
+    "commit": {
+      "author": {
+        "name": "Kevin Partington",
+        "email": "kevin.partington@kernelpanicstudios.com",
+        "date": "2016-03-28T05:06:09Z"
+      },
+      "committer": {
+        "name": "Kevin Partington",
+        "email": "kevin.partington@kernelpanicstudios.com",
+        "date": "2016-03-28T05:06:09Z"
+      },
+      "message": "Avoid issues caused by clobbering of global setTimeout",
+      "tree": {
+        "sha": "b7b847a1f90eb5d9b4e1124d4e95ae37c8dbf8ea",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/b7b847a1f90eb5d9b4e1124d4e95ae37c8dbf8ea"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/9d95c7bf2b0e83e44cf7d0dbce1118f64ee4a302",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/9d95c7bf2b0e83e44cf7d0dbce1118f64ee4a302",
+    "html_url": "https://github.com/requirejs/requirejs/commit/9d95c7bf2b0e83e44cf7d0dbce1118f64ee4a302",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/9d95c7bf2b0e83e44cf7d0dbce1118f64ee4a302/comments",
+    "author": {
+      "login": "platinumazure",
+      "id": 284282,
+      "avatar_url": "https://avatars.githubusercontent.com/u/284282?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/platinumazure",
+      "html_url": "https://github.com/platinumazure",
+      "followers_url": "https://api.github.com/users/platinumazure/followers",
+      "following_url": "https://api.github.com/users/platinumazure/following{/other_user}",
+      "gists_url": "https://api.github.com/users/platinumazure/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/platinumazure/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/platinumazure/subscriptions",
+      "organizations_url": "https://api.github.com/users/platinumazure/orgs",
+      "repos_url": "https://api.github.com/users/platinumazure/repos",
+      "events_url": "https://api.github.com/users/platinumazure/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/platinumazure/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "platinumazure",
+      "id": 284282,
+      "avatar_url": "https://avatars.githubusercontent.com/u/284282?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/platinumazure",
+      "html_url": "https://github.com/platinumazure",
+      "followers_url": "https://api.github.com/users/platinumazure/followers",
+      "following_url": "https://api.github.com/users/platinumazure/following{/other_user}",
+      "gists_url": "https://api.github.com/users/platinumazure/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/platinumazure/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/platinumazure/subscriptions",
+      "organizations_url": "https://api.github.com/users/platinumazure/orgs",
+      "repos_url": "https://api.github.com/users/platinumazure/repos",
+      "events_url": "https://api.github.com/users/platinumazure/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/platinumazure/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c4b74da4b938e13a028a492041fc96d2b9a7e631",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/c4b74da4b938e13a028a492041fc96d2b9a7e631",
+        "html_url": "https://github.com/requirejs/requirejs/commit/c4b74da4b938e13a028a492041fc96d2b9a7e631"
+      }
+    ]
+  },
+  {
+    "sha": "c4b74da4b938e13a028a492041fc96d2b9a7e631",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-17T19:28:46Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-17T19:28:46Z"
+      },
+      "message": "link update",
+      "tree": {
+        "sha": "6b6d47538cbfbdf7bc34fea8d95af243a24acf7a",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/6b6d47538cbfbdf7bc34fea8d95af243a24acf7a"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/c4b74da4b938e13a028a492041fc96d2b9a7e631",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/c4b74da4b938e13a028a492041fc96d2b9a7e631",
+    "html_url": "https://github.com/requirejs/requirejs/commit/c4b74da4b938e13a028a492041fc96d2b9a7e631",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/c4b74da4b938e13a028a492041fc96d2b9a7e631/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "11ecc7554235950fae58da2cb88d9c2776c55a43",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/11ecc7554235950fae58da2cb88d9c2776c55a43",
+        "html_url": "https://github.com/requirejs/requirejs/commit/11ecc7554235950fae58da2cb88d9c2776c55a43"
+      }
+    ]
+  },
+  {
+    "sha": "11ecc7554235950fae58da2cb88d9c2776c55a43",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-17T18:50:26Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-17T18:50:26Z"
+      },
+      "message": "Rev for 2.2.0",
+      "tree": {
+        "sha": "8cc90a1927361d7dc9fabf777e91b18ebc2ee228",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/8cc90a1927361d7dc9fabf777e91b18ebc2ee228"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/11ecc7554235950fae58da2cb88d9c2776c55a43",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/11ecc7554235950fae58da2cb88d9c2776c55a43",
+    "html_url": "https://github.com/requirejs/requirejs/commit/11ecc7554235950fae58da2cb88d9c2776c55a43",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/11ecc7554235950fae58da2cb88d9c2776c55a43/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4c9282dc88f097020dd2b3b98b3d6cb246a27e88",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/4c9282dc88f097020dd2b3b98b3d6cb246a27e88",
+        "html_url": "https://github.com/requirejs/requirejs/commit/4c9282dc88f097020dd2b3b98b3d6cb246a27e88"
+      }
+    ]
+  },
+  {
+    "sha": "4c9282dc88f097020dd2b3b98b3d6cb246a27e88",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-16T01:59:28Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-16T01:59:28Z"
+      },
+      "message": "Revert \"Fixes #1440, error in require callback preventing other resolution\"\n\nThis reverts commit d863f9c43bd58fc364aa3850b14d0f06255215fa.",
+      "tree": {
+        "sha": "23b34503d780852f3d08c7e151c32249e1e5e474",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/23b34503d780852f3d08c7e151c32249e1e5e474"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/4c9282dc88f097020dd2b3b98b3d6cb246a27e88",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/4c9282dc88f097020dd2b3b98b3d6cb246a27e88",
+    "html_url": "https://github.com/requirejs/requirejs/commit/4c9282dc88f097020dd2b3b98b3d6cb246a27e88",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/4c9282dc88f097020dd2b3b98b3d6cb246a27e88/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c5f7735f19329700938e192d0e52e6573453ac24",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/c5f7735f19329700938e192d0e52e6573453ac24",
+        "html_url": "https://github.com/requirejs/requirejs/commit/c5f7735f19329700938e192d0e52e6573453ac24"
+      }
+    ]
+  },
+  {
+    "sha": "c5f7735f19329700938e192d0e52e6573453ac24",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-15T23:05:15Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-15T23:05:15Z"
+      },
+      "message": "Fixes #1472, allow plugin use in data-main",
+      "tree": {
+        "sha": "853036bed07d9b463a188c2747cccedd81f367b4",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/853036bed07d9b463a188c2747cccedd81f367b4"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/c5f7735f19329700938e192d0e52e6573453ac24",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/c5f7735f19329700938e192d0e52e6573453ac24",
+    "html_url": "https://github.com/requirejs/requirejs/commit/c5f7735f19329700938e192d0e52e6573453ac24",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/c5f7735f19329700938e192d0e52e6573453ac24/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "34a77f22c259b35eb64b95ad8023dbc12a85e56a",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/34a77f22c259b35eb64b95ad8023dbc12a85e56a",
+        "html_url": "https://github.com/requirejs/requirejs/commit/34a77f22c259b35eb64b95ad8023dbc12a85e56a"
+      }
+    ]
+  },
+  {
+    "sha": "34a77f22c259b35eb64b95ad8023dbc12a85e56a",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-15T22:13:40Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-15T22:13:40Z"
+      },
+      "message": "doc update for a feature that was scheduled for 2.1.23 but is now 2.2.0",
+      "tree": {
+        "sha": "1e360b70bba368dc93e14a3f077020f3b1a0023d",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/1e360b70bba368dc93e14a3f077020f3b1a0023d"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/34a77f22c259b35eb64b95ad8023dbc12a85e56a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/34a77f22c259b35eb64b95ad8023dbc12a85e56a",
+    "html_url": "https://github.com/requirejs/requirejs/commit/34a77f22c259b35eb64b95ad8023dbc12a85e56a",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/34a77f22c259b35eb64b95ad8023dbc12a85e56a/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d83e6d477f786ee3df77810ef6b027922f2288a8",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/d83e6d477f786ee3df77810ef6b027922f2288a8",
+        "html_url": "https://github.com/requirejs/requirejs/commit/d83e6d477f786ee3df77810ef6b027922f2288a8"
+      }
+    ]
+  },
+  {
+    "sha": "d83e6d477f786ee3df77810ef6b027922f2288a8",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-15T01:33:26Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-15T01:33:26Z"
+      },
+      "message": "Fixes #1508, make sure blob URLs work even with urlArgs",
+      "tree": {
+        "sha": "d81abfa8b6d9ac430f7e80263a8d8728268a9b70",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/d81abfa8b6d9ac430f7e80263a8d8728268a9b70"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/d83e6d477f786ee3df77810ef6b027922f2288a8",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/d83e6d477f786ee3df77810ef6b027922f2288a8",
+    "html_url": "https://github.com/requirejs/requirejs/commit/d83e6d477f786ee3df77810ef6b027922f2288a8",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/d83e6d477f786ee3df77810ef6b027922f2288a8/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "39e682bc42e34eb5be4a8a9ef0b7c80a4923221a",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/39e682bc42e34eb5be4a8a9ef0b7c80a4923221a",
+        "html_url": "https://github.com/requirejs/requirejs/commit/39e682bc42e34eb5be4a8a9ef0b7c80a4923221a"
+      }
+    ]
+  },
+  {
+    "sha": "39e682bc42e34eb5be4a8a9ef0b7c80a4923221a",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-13T21:52:23Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-13T21:52:23Z"
+      },
+      "message": "Fixes #1481, allow urlArgs to be a function",
+      "tree": {
+        "sha": "68fba5c81b8423fb60dc8c82b59f17c3e0b2af05",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/68fba5c81b8423fb60dc8c82b59f17c3e0b2af05"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/39e682bc42e34eb5be4a8a9ef0b7c80a4923221a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/39e682bc42e34eb5be4a8a9ef0b7c80a4923221a",
+    "html_url": "https://github.com/requirejs/requirejs/commit/39e682bc42e34eb5be4a8a9ef0b7c80a4923221a",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/39e682bc42e34eb5be4a8a9ef0b7c80a4923221a/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "684128f7349b6194332256fac019bf5b4f44c0be",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/684128f7349b6194332256fac019bf5b4f44c0be",
+        "html_url": "https://github.com/requirejs/requirejs/commit/684128f7349b6194332256fac019bf5b4f44c0be"
+      }
+    ]
+  },
+  {
+    "sha": "684128f7349b6194332256fac019bf5b4f44c0be",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-13T20:49:23Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-13T20:49:23Z"
+      },
+      "message": "Fixes #1478, do not trigger onNodeCreated until all properties on the node have been set.",
+      "tree": {
+        "sha": "f330f7530f70c8c0041cf1d9bb551f287367354c",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/f330f7530f70c8c0041cf1d9bb551f287367354c"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/684128f7349b6194332256fac019bf5b4f44c0be",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/684128f7349b6194332256fac019bf5b4f44c0be",
+    "html_url": "https://github.com/requirejs/requirejs/commit/684128f7349b6194332256fac019bf5b4f44c0be",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/684128f7349b6194332256fac019bf5b4f44c0be/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8a5fece5b74db30fe904ca48255b8b9aa1be419a",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/8a5fece5b74db30fe904ca48255b8b9aa1be419a",
+        "html_url": "https://github.com/requirejs/requirejs/commit/8a5fece5b74db30fe904ca48255b8b9aa1be419a"
+      }
+    ]
+  },
+  {
+    "sha": "8a5fece5b74db30fe904ca48255b8b9aa1be419a",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-12T04:03:55Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-12T04:03:55Z"
+      },
+      "message": "Fixes #1492, do not clip parens from comment trimming",
+      "tree": {
+        "sha": "729b128cdc94ba03095ccc3e9a46c43fc9ebb9b2",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/729b128cdc94ba03095ccc3e9a46c43fc9ebb9b2"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/8a5fece5b74db30fe904ca48255b8b9aa1be419a",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/8a5fece5b74db30fe904ca48255b8b9aa1be419a",
+    "html_url": "https://github.com/requirejs/requirejs/commit/8a5fece5b74db30fe904ca48255b8b9aa1be419a",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/8a5fece5b74db30fe904ca48255b8b9aa1be419a/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b1f0dcc0e9a58a6ee1a1d7ed10e6a01756b447cf",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/b1f0dcc0e9a58a6ee1a1d7ed10e6a01756b447cf",
+        "html_url": "https://github.com/requirejs/requirejs/commit/b1f0dcc0e9a58a6ee1a1d7ed10e6a01756b447cf"
+      }
+    ]
+  },
+  {
+    "sha": "b1f0dcc0e9a58a6ee1a1d7ed10e6a01756b447cf",
+    "commit": {
+      "author": {
+        "name": "James Burke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-10T01:12:17Z"
+      },
+      "committer": {
+        "name": "James Burke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-10T01:12:17Z"
+      },
+      "message": "Merge pull request #1506 from ahadb/ahb-typos\n\nfix typo for consistency",
+      "tree": {
+        "sha": "a80695acd5b9bb08eb7a8ab19a8ca6683ea5999b",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/a80695acd5b9bb08eb7a8ab19a8ca6683ea5999b"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/b1f0dcc0e9a58a6ee1a1d7ed10e6a01756b447cf",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/b1f0dcc0e9a58a6ee1a1d7ed10e6a01756b447cf",
+    "html_url": "https://github.com/requirejs/requirejs/commit/b1f0dcc0e9a58a6ee1a1d7ed10e6a01756b447cf",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/b1f0dcc0e9a58a6ee1a1d7ed10e6a01756b447cf/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c9428965fcd0cb35582d2eed2d241575650a690e",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/c9428965fcd0cb35582d2eed2d241575650a690e",
+        "html_url": "https://github.com/requirejs/requirejs/commit/c9428965fcd0cb35582d2eed2d241575650a690e"
+      },
+      {
+        "sha": "eaacc8ad9dbacbc75ca3faaa99fb9e94afef25f4",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/eaacc8ad9dbacbc75ca3faaa99fb9e94afef25f4",
+        "html_url": "https://github.com/requirejs/requirejs/commit/eaacc8ad9dbacbc75ca3faaa99fb9e94afef25f4"
+      }
+    ]
+  },
+  {
+    "sha": "c9428965fcd0cb35582d2eed2d241575650a690e",
+    "commit": {
+      "author": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-10T01:09:33Z"
+      },
+      "committer": {
+        "name": "jrburke",
+        "email": "jrburke@gmail.com",
+        "date": "2016-03-10T01:09:33Z"
+      },
+      "message": "Updating jQuery Foundation related info, relates to requirejs/requirejs#1502",
+      "tree": {
+        "sha": "89c93bdf8b426c13c2c026a045b4500b8e95548a",
+        "url": "https://api.github.com/repos/requirejs/requirejs/git/trees/89c93bdf8b426c13c2c026a045b4500b8e95548a"
+      },
+      "url": "https://api.github.com/repos/requirejs/requirejs/git/commits/c9428965fcd0cb35582d2eed2d241575650a690e",
+      "comment_count": 0
+    },
+    "url": "https://api.github.com/repos/requirejs/requirejs/commits/c9428965fcd0cb35582d2eed2d241575650a690e",
+    "html_url": "https://github.com/requirejs/requirejs/commit/c9428965fcd0cb35582d2eed2d241575650a690e",
+    "comments_url": "https://api.github.com/repos/requirejs/requirejs/commits/c9428965fcd0cb35582d2eed2d241575650a690e/comments",
+    "author": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jrburke",
+      "id": 73359,
+      "avatar_url": "https://avatars.githubusercontent.com/u/73359?v=3",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jrburke",
+      "html_url": "https://github.com/jrburke",
+      "followers_url": "https://api.github.com/users/jrburke/followers",
+      "following_url": "https://api.github.com/users/jrburke/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jrburke/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jrburke/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jrburke/subscriptions",
+      "organizations_url": "https://api.github.com/users/jrburke/orgs",
+      "repos_url": "https://api.github.com/users/jrburke/repos",
+      "events_url": "https://api.github.com/users/jrburke/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jrburke/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "25f9aeb3d379adfd731e0af4216c42df780950a6",
+        "url": "https://api.github.com/repos/requirejs/requirejs/commits/25f9aeb3d379adfd731e0af4216c42df780950a6",
+        "html_url": "https://github.com/requirejs/requirejs/commit/25f9aeb3d379adfd731e0af4216c42df780950a6"
+      }
+    ]
+  }
+]
