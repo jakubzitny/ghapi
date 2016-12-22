@@ -1,18 +1,11 @@
 #!/bin/bash
 
-
-
-
-#ghtoken="0cc313c0c76196d2464b4b4be0ce6400c8f23745"
 ghtoken="$2"
 dataid="$1"
 
 prefix=res
 
 list=data/"$1"
-#list=jsonly_idurls.csv
-#list="test.csv"
-
 
 getRepoJson() {
 	curl --silent "$1?access_token=$ghtoken" -H 'Accept: application/vnd.github.preview' 2> /dev/null
@@ -56,25 +49,3 @@ while IFS=',' read -r id url
 do
 	processUrl $id $url
 done < "$list"
-
-
-
-#for pair in `mysql -uroot dbfull -rNs -e "select id, projectPath from projectCloneCountsSortedUrls" | sed -E "s/[[:space:]]+/:/g"`;
-#do
-#	id=`echo $pair | awk -F":" '{print $1}'`
-#	path=`echo $pair | awk -F":" '{print $2}'`
-#	#echo $pair
-#	#echo $id
-#	#echo $path
-#	#echo "------------"
-#	if [ `echo $path | grep "data2"` ]; then
-#		url=`echo $path | awk -F"/" '{print "https://api.github.com/repos/"$6"/"$7}'`
-#	else
-#		url=`echo $path | awk -F"/" '{print "https://api.github.com/repos/"$5"/"$7}'`
-#	fi
-#
-#	#curl -ni "$url?access_token=0cc313c0c76196d2464b4b4be0ce6400c8f23745" -H 'Accept: application/vnd.github.preview'
-#	count=`curl -ni "$url?access_token=0cc313c0c76196d2464b4b4be0ce6400c8f23745" -H 'Accept: application/vnd.github.preview' 2> /dev/null | grep 'stargazers_count' | head -1 | sed 's/[^0-9]*//g'`
-#	echo "$id $count"
-#	# sleep 2
-#done
